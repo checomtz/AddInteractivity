@@ -1,0 +1,11 @@
+{
+  "title": "mind connect",
+  "description": "Enhance user engagement with interactive features that allow seamless navigation and personalized experiences for visitors on your website.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
